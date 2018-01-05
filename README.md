@@ -1,2 +1,2 @@
 # java-tutorial
-learning-java
+learning-java with friends
